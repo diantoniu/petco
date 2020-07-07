@@ -1,0 +1,56 @@
+<table class="table table-full margin-bottom-md col-8">
+<!--Group Name  -->
+<tbody><tr><th><strong><em>Item Dimensions</em></strong></th><th></th></tr>
+
+<!-- PDWEB 3199 --><!--Group Attribute Name  -->
+    <tr>
+        <td>Length</td>
+        <td>4 IN</td>
+    </tr>
+
+
+<!-- PDWEB 3199 --><!--Group Attribute Name  -->
+    <tr>
+        <td>Height</td>
+        <td>15.5 IN</td>
+    </tr>
+
+
+<!-- PDWEB 3199 --><!--Group Attribute Name  -->
+    <tr>
+        <td>Width</td>
+        <td>8 IN</td>
+    </tr>
+
+
+
+</tbody></table>
+
+
+<table class="table table-full margin-bottom-md col-8">
+							<!--Group Name  -->
+							<tbody><tr><th><strong><em>Item Dimensions</em></strong></th><th></th></tr>
+
+							<!-- PDWEB 3199 --><!--Group Attribute Name  -->
+								<tr>
+									<td>Length</td>
+									<td>22.5 IN</td>
+								</tr>
+
+
+							<!-- PDWEB 3199 --><!--Group Attribute Name  -->
+								<tr>
+									<td>Height</td>
+									<td>3.63 IN</td>
+								</tr>
+
+
+							<!-- PDWEB 3199 --><!--Group Attribute Name  -->
+								<tr>
+									<td>Width</td>
+									<td>15.25 IN</td>
+								</tr>
+
+
+
+							</tbody></table>
